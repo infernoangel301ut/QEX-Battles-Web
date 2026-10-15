@@ -924,7 +924,7 @@ ApplicationMain.main = function() {
 ApplicationMain.create = function(config) {
 	var app = new openfl_display_Application();
 	ManifestResources.init(config);
-	app.meta.h["build"] = "220";
+	app.meta.h["build"] = "222";
 	app.meta.h["company"] = "Vicotr";
 	app.meta.h["file"] = "QEXB";
 	app.meta.h["name"] = "QEX Battles";
@@ -94344,7 +94344,7 @@ var lime_utils_AssetCache = function() {
 	this.audio = new haxe_ds_StringMap();
 	this.font = new haxe_ds_StringMap();
 	this.image = new haxe_ds_StringMap();
-	this.version = 89108;
+	this.version = 296004;
 };
 $hxClasses["lime.utils.AssetCache"] = lime_utils_AssetCache;
 lime_utils_AssetCache.__name__ = "lime.utils.AssetCache";
@@ -141961,12 +141961,8 @@ qex_menus_CharacterSelectState.prototype = $extend(flixel_FlxState.prototype,{
 	,playerColors: null
 	,readyP1: null
 	,readyP2: null
-	,uiCamera: null
-	,victoryLabel: null
 	,create: function() {
 		flixel_FlxState.prototype.create.call(this);
-		this.uiCamera = flixel_FlxG.cameras.add(new flixel_FlxCamera(),false);
-		this.uiCamera.bgColor = 0;
 		this.set_bgColor(-1);
 		this.menuTitleTxt = new flixel_text_FlxText(0,10,0,"CHOOSE YOUR CHARACTER\n[PLACEHOLDER]",32);
 		this.menuTitleTxt.set_color(-16777216);
