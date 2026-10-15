@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"prefix": "tesso idle",
+			"offsets": {
+				"right": {
+					"x": 40,
+					"y": 45
+				},
+				"left": {
+					"x": 65,
+					"y": 45
+				}
+			},
+			"fps": 12,
+			"anim": "idle",
+			"looped": true
+		},
+		{
+			"prefix": "tesso attack 1",
+			"offsets": {
+				"right": {
+					"x": 30,
+					"y": 35
+				},
+				"left": {
+					"x": 67,
+					"y": 35
+				}
+			},
+			"fps": 12,
+			"anim": "attack1",
+			"looped": false
+		},
+		{
+			"prefix": "tesso jump0",
+			"offsets": {
+				"right": {
+					"x": 45,
+					"y": 90
+				},
+				"left": {
+					"x": 47,
+					"y": 90
+				}
+			},
+			"fps": 12,
+			"anim": "jump",
+			"looped": false
+		},
+		{
+			"prefix": "tesso attack 2",
+			"offsets": {
+				"right": {
+					"x": 30,
+					"y": 40
+				},
+				"left": {
+					"x": 90,
+					"y": 40
+				}
+			},
+			"fps": 12,
+			"anim": "attack2",
+			"looped": false
+		},
+		{
+			"prefix": "tesso attack 3",
+			"offsets": {
+				"right": {
+					"x": 60,
+					"y": 40
+				},
+				"left": {
+					"x": 62,
+					"y": 40
+				}
+			},
+			"fps": 12,
+			"anim": "attack3",
+			"looped": false
+		},
+		{
+			"prefix": "tesso run",
+			"offsets": {
+				"right": {
+					"x": 40,
+					"y": 45
+				},
+				"left": {
+					"x": 55,
+					"y": 45
+				}
+			},
+			"fps": 12,
+			"anim": "run",
+			"looped": true
+		},
+		{
+			"prefix": "tesso jump loop",
+			"offsets": {
+				"right": {
+					"x": 45,
+					"y": 99
+				},
+				"left": {
+					"x": 47,
+					"y": 99
+				}
+			},
+			"fps": 12,
+			"anim": "jump-loop",
+			"looped": true
+		},
+		{
+			"prefix": "tesso land",
+			"offsets": {
+				"right": {
+					"x": 46,
+					"y": 90
+				},
+				"left": {
+					"x": 60,
+					"y": 90
+				}
+			},
+			"fps": 24,
+			"anim": "land",
+			"looped": false
+		}
+	],
+	"flipX": false,
+	"hitboxOffsets": {
+		"width": -77,
+		"x": 15,
+		"y": 25,
+		"height": -52
+	},
+	"antialiasing": true,
+	"name": "Tesso",
+	"scale": 0.75
+}

@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"prefix": "yazgan idle",
+			"offsets": {
+				"right": {
+					"x": 30,
+					"y": 90
+				},
+				"left": {
+					"x": 60,
+					"y": 90
+				}
+			},
+			"fps": 12,
+			"anim": "idle",
+			"looped": true
+		},
+		{
+			"prefix": "yazgan attack 1",
+			"offsets": {
+				"right": {
+					"x": 29,
+					"y": 78
+				},
+				"left": {
+					"x": 90,
+					"y": 78
+				}
+			},
+			"fps": 12,
+			"anim": "attack1",
+			"looped": false
+		},
+		{
+			"prefix": "yazgan jump0",
+			"offsets": {
+				"right": {
+					"x": 40,
+					"y": 128
+				},
+				"left": {
+					"x": 40,
+					"y": 128
+				}
+			},
+			"fps": 12,
+			"anim": "jump",
+			"looped": false
+		},
+		{
+			"prefix": "yazgan attack 2",
+			"offsets": {
+				"right": {
+					"x": 30,
+					"y": 90
+				},
+				"left": {
+					"x": 80,
+					"y": 90
+				}
+			},
+			"fps": 12,
+			"anim": "attack2",
+			"looped": false
+		},
+		{
+			"prefix": "yazgan land",
+			"offsets": {
+				"right": {
+					"x": 40,
+					"y": 128
+				},
+				"left": {
+					"x": 40,
+					"y": 128
+				}
+			},
+			"fps": 24,
+			"anim": "land",
+			"looped": false
+		},
+		{
+			"prefix": "yazgan jump loop",
+			"offsets": {
+				"right": {
+					"x": 35,
+					"y": 128
+				},
+				"left": {
+					"x": 35,
+					"y": 128
+				}
+			},
+			"fps": 12,
+			"anim": "jump-loop",
+			"looped": true
+		},
+		{
+			"prefix": "yazgan run",
+			"offsets": {
+				"right": {
+					"x": 50,
+					"y": 90
+				},
+				"left": {
+					"x": 50,
+					"y": 90
+				}
+			},
+			"fps": 12,
+			"anim": "run",
+			"looped": true
+		},
+		{
+			"prefix": "yazgan attack 3",
+			"offsets": {
+				"right": {
+					"x": 60,
+					"y": 60
+				},
+				"left": {
+					"x": 75,
+					"y": 60
+				}
+			},
+			"fps": 12,
+			"anim": "attack3",
+			"looped": false
+		}
+	],
+	"flipX": false,
+	"hitboxOffsets": {
+		"width": -95,
+		"x": 25,
+		"y": 35,
+		"height": -95
+	},
+	"antialiasing": true,
+	"name": "Yazgan",
+	"scale": 0.75
+}

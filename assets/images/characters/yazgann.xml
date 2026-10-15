@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yazgann.png">
+	<!-- Created with Adobe Animate version 24.0.4.28 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yazgan attack 10000" x="86" y="86" width="296" height="388"/>
+	<SubTexture name="yazgan attack 10001" x="482" y="86" width="296" height="388"/>
+	<SubTexture name="yazgan attack 10002" x="878" y="86" width="296" height="388"/>
+	<SubTexture name="yazgan attack 10003" x="878" y="86" width="296" height="388"/>
+	<SubTexture name="yazgan attack 10004" x="1274" y="86" width="296" height="388"/>
+	<SubTexture name="yazgan attack 10005" x="1274" y="86" width="296" height="388"/>
+	<SubTexture name="yazgan attack 20000" x="1670" y="86" width="288" height="401"/>
+	<SubTexture name="yazgan attack 20001" x="2058" y="86" width="288" height="401"/>
+	<SubTexture name="yazgan attack 20002" x="2446" y="86" width="288" height="401"/>
+	<SubTexture name="yazgan attack 20003" x="2446" y="86" width="288" height="401"/>
+	<SubTexture name="yazgan attack 20004" x="2834" y="86" width="288" height="401"/>
+	<SubTexture name="yazgan attack 20005" x="2834" y="86" width="288" height="401"/>
+	<SubTexture name="yazgan attack 30000" x="3222" y="86" width="320" height="356"/>
+	<SubTexture name="yazgan attack 30001" x="3642" y="86" width="320" height="356"/>
+	<SubTexture name="yazgan attack 30002" x="86" y="587" width="320" height="356"/>
+	<SubTexture name="yazgan attack 30003" x="86" y="587" width="320" height="356"/>
+	<SubTexture name="yazgan attack 30004" x="506" y="587" width="320" height="356"/>
+	<SubTexture name="yazgan attack 30005" x="506" y="587" width="320" height="356"/>
+	<SubTexture name="yazgan attack 30006" x="926" y="587" width="320" height="356"/>
+	<SubTexture name="yazgan attack 30007" x="926" y="587" width="320" height="356"/>
+	<SubTexture name="yazgan block hit0000" x="1346" y="587" width="260" height="404"/>
+	<SubTexture name="yazgan block hit0001" x="1346" y="587" width="260" height="404"/>
+	<SubTexture name="yazgan block hit0002" x="1706" y="587" width="260" height="404"/>
+	<SubTexture name="yazgan block hit0003" x="1706" y="587" width="260" height="404"/>
+	<SubTexture name="yazgan block hit0004" x="2066" y="587" width="260" height="404"/>
+	<SubTexture name="yazgan block hit0005" x="2066" y="587" width="260" height="404"/>
+	<SubTexture name="yazgan block hold0000" x="2426" y="587" width="264" height="404"/>
+	<SubTexture name="yazgan block hold0001" x="2426" y="587" width="264" height="404"/>
+	<SubTexture name="yazgan block hold0002" x="2790" y="587" width="264" height="404"/>
+	<SubTexture name="yazgan block hold0003" x="2790" y="587" width="264" height="404"/>
+	<SubTexture name="yazgan block hold0004" x="3154" y="587" width="264" height="404"/>
+	<SubTexture name="yazgan block hold0005" x="3154" y="587" width="264" height="404"/>
+	<SubTexture name="yazgan block hold0006" x="3518" y="587" width="264" height="404"/>
+	<SubTexture name="yazgan block hold0007" x="3518" y="587" width="264" height="404"/>
+	<SubTexture name="yazgan idle0000" x="86" y="1091" width="264" height="404"/>
+	<SubTexture name="yazgan idle0001" x="86" y="1091" width="264" height="404"/>
+	<SubTexture name="yazgan idle0002" x="450" y="1091" width="264" height="404"/>
+	<SubTexture name="yazgan idle0003" x="450" y="1091" width="264" height="404"/>
+	<SubTexture name="yazgan idle0004" x="814" y="1091" width="264" height="404"/>
+	<SubTexture name="yazgan idle0005" x="814" y="1091" width="264" height="404"/>
+	<SubTexture name="yazgan idle0006" x="1178" y="1091" width="264" height="404"/>
+	<SubTexture name="yazgan idle0007" x="1178" y="1091" width="264" height="404"/>
+	<SubTexture name="yazgan jump0000" x="1542" y="1091" width="245" height="448"/>
+	<SubTexture name="yazgan jump0001" x="1542" y="1091" width="245" height="448"/>
+	<SubTexture name="yazgan jump0002" x="1887" y="1091" width="245" height="448"/>
+	<SubTexture name="yazgan jump0003" x="1887" y="1091" width="245" height="448"/>
+	<SubTexture name="yazgan jump0004" x="2232" y="1091" width="245" height="448"/>
+	<SubTexture name="yazgan jump0005" x="2232" y="1091" width="245" height="448"/>
+	<SubTexture name="yazgan jump0006" x="2577" y="1091" width="245" height="448"/>
+	<SubTexture name="yazgan jump0007" x="2577" y="1091" width="245" height="448"/>
+	<SubTexture name="yazgan jump loop0000" x="2922" y="1091" width="233" height="435"/>
+	<SubTexture name="yazgan jump loop0001" x="2922" y="1091" width="233" height="435"/>
+	<SubTexture name="yazgan jump loop0002" x="3255" y="1091" width="233" height="435"/>
+	<SubTexture name="yazgan jump loop0003" x="3255" y="1091" width="233" height="435"/>
+	<SubTexture name="yazgan jump loop0004" x="3588" y="1091" width="233" height="435"/>
+	<SubTexture name="yazgan jump loop0005" x="3588" y="1091" width="233" height="435"/>
+	<SubTexture name="yazgan jump loop0006" x="86" y="1639" width="233" height="435"/>
+	<SubTexture name="yazgan jump loop0007" x="86" y="1639" width="233" height="435"/>
+	<SubTexture name="yazgan land0000" x="419" y="1639" width="267" height="442"/>
+	<SubTexture name="yazgan land0001" x="419" y="1639" width="267" height="442"/>
+	<SubTexture name="yazgan land0002" x="786" y="1639" width="267" height="442"/>
+	<SubTexture name="yazgan land0003" x="786" y="1639" width="267" height="442"/>
+	<SubTexture name="yazgan land0004" x="1153" y="1639" width="267" height="442"/>
+	<SubTexture name="yazgan land0005" x="1153" y="1639" width="267" height="442"/>
+	<SubTexture name="yazgan run0000" x="1520" y="1639" width="274" height="414"/>
+	<SubTexture name="yazgan run0001" x="1520" y="1639" width="274" height="414"/>
+	<SubTexture name="yazgan run0002" x="1894" y="1639" width="274" height="414"/>
+	<SubTexture name="yazgan run0003" x="1894" y="1639" width="274" height="414"/>
+	<SubTexture name="yazgan run0004" x="2268" y="1639" width="274" height="414"/>
+	<SubTexture name="yazgan run0005" x="2268" y="1639" width="274" height="414"/>
+	<SubTexture name="yazgan run0006" x="2642" y="1639" width="274" height="414"/>
+	<SubTexture name="yazgan run0007" x="2642" y="1639" width="274" height="414"/>
+	<SubTexture name="yazgan run0008" x="3016" y="1639" width="274" height="414"/>
+	<SubTexture name="yazgan run0009" x="3016" y="1639" width="274" height="414"/>
+</TextureAtlas>

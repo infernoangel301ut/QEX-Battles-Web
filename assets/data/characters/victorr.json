@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"prefix": "victor idle",
+			"offsets": {
+				"right": {
+					"x": 30,
+					"y": 40
+				},
+				"left": {
+					"x": 55,
+					"y": 40
+				}
+			},
+			"fps": 12,
+			"anim": "idle",
+			"looped": true
+		},
+		{
+			"prefix": "victor attack 1",
+			"offsets": {
+				"right": {
+					"x": 31,
+					"y": 43
+				},
+				"left": {
+					"x": 95,
+					"y": 43
+				}
+			},
+			"fps": 12,
+			"anim": "attack1",
+			"looped": false
+		},
+		{
+			"prefix": "victor jump0",
+			"offsets": {
+				"right": {
+					"x": 50,
+					"y": 100
+				},
+				"left": {
+					"x": 50,
+					"y": 100
+				}
+			},
+			"fps": 12,
+			"anim": "jump",
+			"looped": false
+		},
+		{
+			"prefix": "victor attack 2",
+			"offsets": {
+				"right": {
+					"x": 10,
+					"y": 39
+				},
+				"left": {
+					"x": 91,
+					"y": 39
+				}
+			},
+			"fps": 12,
+			"anim": "attack2",
+			"looped": false
+		},
+		{
+			"prefix": "victor attack 3",
+			"offsets": {
+				"right": {
+					"x": 90,
+					"y": 30
+				},
+				"left": {
+					"x": 63,
+					"y": 30
+				}
+			},
+			"fps": 12,
+			"anim": "attack3",
+			"looped": false
+		},
+		{
+			"prefix": "victor run",
+			"offsets": {
+				"right": {
+					"x": 35,
+					"y": 28
+				},
+				"left": {
+					"x": 55,
+					"y": 28
+				}
+			},
+			"fps": 12,
+			"anim": "run",
+			"looped": true
+		},
+		{
+			"prefix": "victor jump loop",
+			"offsets": {
+				"right": {
+					"x": 15,
+					"y": 100
+				},
+				"left": {
+					"x": 46,
+					"y": 100
+				}
+			},
+			"fps": 12,
+			"anim": "jump-loop",
+			"looped": true
+		},
+		{
+			"prefix": "victor land",
+			"offsets": {
+				"right": {
+					"x": 45,
+					"y": 93
+				},
+				"left": {
+					"x": 45,
+					"y": 93
+				}
+			},
+			"fps": 24,
+			"anim": "land",
+			"looped": false
+		}
+	],
+	"flipX": false,
+	"hitboxOffsets": {
+		"width": -77,
+		"x": 15,
+		"y": 25,
+		"height": -51
+	},
+	"antialiasing": true,
+	"name": "Victor",
+	"scale": 0.75
+}

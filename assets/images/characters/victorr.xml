@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="victorr.png">
+	<!-- Created with Adobe Animate version 24.0.4.28 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="victor attack 10000" x="86" y="86" width="327" height="399"/>
+	<SubTexture name="victor attack 10001" x="513" y="86" width="327" height="399"/>
+	<SubTexture name="victor attack 10002" x="940" y="86" width="327" height="399"/>
+	<SubTexture name="victor attack 10003" x="940" y="86" width="327" height="399"/>
+	<SubTexture name="victor attack 10004" x="1367" y="86" width="327" height="399"/>
+	<SubTexture name="victor attack 10005" x="1367" y="86" width="327" height="399"/>
+	<SubTexture name="victor attack 20000" x="1794" y="86" width="302" height="386"/>
+	<SubTexture name="victor attack 20001" x="2196" y="86" width="302" height="386"/>
+	<SubTexture name="victor attack 20002" x="2598" y="86" width="302" height="386"/>
+	<SubTexture name="victor attack 20003" x="2598" y="86" width="302" height="386"/>
+	<SubTexture name="victor attack 20004" x="3000" y="86" width="302" height="386"/>
+	<SubTexture name="victor attack 20005" x="3000" y="86" width="302" height="386"/>
+	<SubTexture name="victor attack 30000" x="3402" y="86" width="365" height="403"/>
+	<SubTexture name="victor attack 30001" x="86" y="589" width="365" height="403"/>
+	<SubTexture name="victor attack 30002" x="551" y="589" width="365" height="403"/>
+	<SubTexture name="victor attack 30003" x="551" y="589" width="365" height="403"/>
+	<SubTexture name="victor attack 30004" x="1016" y="589" width="365" height="403"/>
+	<SubTexture name="victor attack 30005" x="1016" y="589" width="365" height="403"/>
+	<SubTexture name="victor attack 30006" x="1481" y="589" width="365" height="403"/>
+	<SubTexture name="victor attack 30007" x="1481" y="589" width="365" height="403"/>
+	<SubTexture name="victor block hit0000" x="1946" y="589" width="253" height="382"/>
+	<SubTexture name="victor block hit0001" x="1946" y="589" width="253" height="382"/>
+	<SubTexture name="victor block hit0002" x="2299" y="589" width="253" height="382"/>
+	<SubTexture name="victor block hit0003" x="2299" y="589" width="253" height="382"/>
+	<SubTexture name="victor block hit0004" x="2652" y="589" width="253" height="382"/>
+	<SubTexture name="victor block hit0005" x="2652" y="589" width="253" height="382"/>
+	<SubTexture name="victor block hold0000" x="3005" y="589" width="256" height="383"/>
+	<SubTexture name="victor block hold0001" x="3005" y="589" width="256" height="383"/>
+	<SubTexture name="victor block hold0002" x="3361" y="589" width="256" height="383"/>
+	<SubTexture name="victor block hold0003" x="3361" y="589" width="256" height="383"/>
+	<SubTexture name="victor block hold0004" x="3717" y="589" width="256" height="383"/>
+	<SubTexture name="victor block hold0005" x="3717" y="589" width="256" height="383"/>
+	<SubTexture name="victor block hold0006" x="86" y="1092" width="256" height="383"/>
+	<SubTexture name="victor block hold0007" x="86" y="1092" width="256" height="383"/>
+	<SubTexture name="victor idle0000" x="442" y="1092" width="276" height="387"/>
+	<SubTexture name="victor idle0001" x="442" y="1092" width="276" height="387"/>
+	<SubTexture name="victor idle0002" x="818" y="1092" width="276" height="387"/>
+	<SubTexture name="victor idle0003" x="818" y="1092" width="276" height="387"/>
+	<SubTexture name="victor idle0004" x="1194" y="1092" width="276" height="387"/>
+	<SubTexture name="victor idle0005" x="1194" y="1092" width="276" height="387"/>
+	<SubTexture name="victor idle0006" x="1570" y="1092" width="276" height="387"/>
+	<SubTexture name="victor idle0007" x="1570" y="1092" width="276" height="387"/>
+	<SubTexture name="victor jump0000" x="1946" y="1092" width="289" height="471"/>
+	<SubTexture name="victor jump0001" x="1946" y="1092" width="289" height="471"/>
+	<SubTexture name="victor jump0002" x="2335" y="1092" width="289" height="471"/>
+	<SubTexture name="victor jump0003" x="2335" y="1092" width="289" height="471"/>
+	<SubTexture name="victor jump0004" x="2724" y="1092" width="289" height="471"/>
+	<SubTexture name="victor jump0005" x="2724" y="1092" width="289" height="471"/>
+	<SubTexture name="victor jump0006" x="3113" y="1092" width="289" height="471"/>
+	<SubTexture name="victor jump0007" x="3113" y="1092" width="289" height="471"/>
+	<SubTexture name="victor jump loop0000" x="3502" y="1092" width="242" height="428"/>
+	<SubTexture name="victor jump loop0001" x="3502" y="1092" width="242" height="428"/>
+	<SubTexture name="victor jump loop0002" x="86" y="1663" width="242" height="428"/>
+	<SubTexture name="victor jump loop0003" x="86" y="1663" width="242" height="428"/>
+	<SubTexture name="victor jump loop0004" x="428" y="1663" width="242" height="428"/>
+	<SubTexture name="victor jump loop0005" x="428" y="1663" width="242" height="428"/>
+	<SubTexture name="victor jump loop0006" x="770" y="1663" width="242" height="428"/>
+	<SubTexture name="victor jump loop0007" x="770" y="1663" width="242" height="428"/>
+	<SubTexture name="victor land0000" x="1112" y="1663" width="282" height="464"/>
+	<SubTexture name="victor land0001" x="1112" y="1663" width="282" height="464"/>
+	<SubTexture name="victor land0002" x="1494" y="1663" width="282" height="464"/>
+	<SubTexture name="victor land0003" x="1494" y="1663" width="282" height="464"/>
+	<SubTexture name="victor land0004" x="1876" y="1663" width="282" height="464"/>
+	<SubTexture name="victor land0005" x="1876" y="1663" width="282" height="464"/>
+	<SubTexture name="victor run0000" x="2258" y="1663" width="278" height="393"/>
+	<SubTexture name="victor run0001" x="2258" y="1663" width="278" height="393"/>
+	<SubTexture name="victor run0002" x="2636" y="1663" width="278" height="393"/>
+	<SubTexture name="victor run0003" x="2636" y="1663" width="278" height="393"/>
+	<SubTexture name="victor run0004" x="3014" y="1663" width="278" height="393"/>
+	<SubTexture name="victor run0005" x="3014" y="1663" width="278" height="393"/>
+	<SubTexture name="victor run0006" x="3392" y="1663" width="278" height="393"/>
+	<SubTexture name="victor run0007" x="3392" y="1663" width="278" height="393"/>
+	<SubTexture name="victor run0008" x="86" y="2227" width="278" height="393"/>
+	<SubTexture name="victor run0009" x="86" y="2227" width="278" height="393"/>
+</TextureAtlas>

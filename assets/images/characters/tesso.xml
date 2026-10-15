@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tesso.png">
+	<!-- Created with Adobe Animate version 24.0.4.28 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tesso attack 10000" x="86" y="86" width="289" height="346"/>
+	<SubTexture name="tesso attack 10001" x="475" y="86" width="289" height="346"/>
+	<SubTexture name="tesso attack 10002" x="864" y="86" width="289" height="346"/>
+	<SubTexture name="tesso attack 10003" x="864" y="86" width="289" height="346"/>
+	<SubTexture name="tesso attack 10004" x="1253" y="86" width="289" height="346"/>
+	<SubTexture name="tesso attack 10005" x="1253" y="86" width="289" height="346"/>
+	<SubTexture name="tesso attack 20000" x="1642" y="86" width="318" height="356"/>
+	<SubTexture name="tesso attack 20001" x="2060" y="86" width="318" height="356"/>
+	<SubTexture name="tesso attack 20002" x="2478" y="86" width="318" height="356"/>
+	<SubTexture name="tesso attack 20003" x="2478" y="86" width="318" height="356"/>
+	<SubTexture name="tesso attack 20004" x="2896" y="86" width="318" height="356"/>
+	<SubTexture name="tesso attack 20005" x="2896" y="86" width="318" height="356"/>
+	<SubTexture name="tesso attack 30000" x="3314" y="86" width="295" height="356"/>
+	<SubTexture name="tesso attack 30001" x="3709" y="86" width="295" height="356"/>
+	<SubTexture name="tesso attack 30002" x="86" y="542" width="295" height="356"/>
+	<SubTexture name="tesso attack 30003" x="86" y="542" width="295" height="356"/>
+	<SubTexture name="tesso attack 30004" x="481" y="542" width="295" height="356"/>
+	<SubTexture name="tesso attack 30005" x="481" y="542" width="295" height="356"/>
+	<SubTexture name="tesso attack 30006" x="876" y="542" width="295" height="356"/>
+	<SubTexture name="tesso attack 30007" x="876" y="542" width="295" height="356"/>
+	<SubTexture name="tesso block0000" x="1271" y="542" width="278" height="355"/>
+	<SubTexture name="tesso block0001" x="1271" y="542" width="278" height="355"/>
+	<SubTexture name="tesso block0002" x="1649" y="542" width="278" height="355"/>
+	<SubTexture name="tesso block0003" x="1649" y="542" width="278" height="355"/>
+	<SubTexture name="tesso block0004" x="2027" y="542" width="278" height="355"/>
+	<SubTexture name="tesso block0005" x="2027" y="542" width="278" height="355"/>
+	<SubTexture name="tesso block hold0000" x="2405" y="542" width="288" height="355"/>
+	<SubTexture name="tesso block hold0001" x="2405" y="542" width="288" height="355"/>
+	<SubTexture name="tesso block hold0002" x="2793" y="542" width="288" height="355"/>
+	<SubTexture name="tesso block hold0003" x="2793" y="542" width="288" height="355"/>
+	<SubTexture name="tesso block hold0004" x="3181" y="542" width="288" height="355"/>
+	<SubTexture name="tesso block hold0005" x="3181" y="542" width="288" height="355"/>
+	<SubTexture name="tesso block hold0006" x="3569" y="542" width="288" height="355"/>
+	<SubTexture name="tesso block hold0007" x="3569" y="542" width="288" height="355"/>
+	<SubTexture name="tesso idle0000" x="86" y="998" width="288" height="355"/>
+	<SubTexture name="tesso idle0001" x="86" y="998" width="288" height="355"/>
+	<SubTexture name="tesso idle0002" x="474" y="998" width="288" height="355"/>
+	<SubTexture name="tesso idle0003" x="474" y="998" width="288" height="355"/>
+	<SubTexture name="tesso idle0004" x="862" y="998" width="288" height="355"/>
+	<SubTexture name="tesso idle0005" x="862" y="998" width="288" height="355"/>
+	<SubTexture name="tesso idle0006" x="1250" y="998" width="288" height="355"/>
+	<SubTexture name="tesso idle0007" x="1250" y="998" width="288" height="355"/>
+	<SubTexture name="tesso jump0000" x="1638" y="998" width="283" height="417"/>
+	<SubTexture name="tesso jump0001" x="1638" y="998" width="283" height="417"/>
+	<SubTexture name="tesso jump0002" x="2021" y="998" width="283" height="417"/>
+	<SubTexture name="tesso jump0003" x="2021" y="998" width="283" height="417"/>
+	<SubTexture name="tesso jump0004" x="2404" y="998" width="283" height="417"/>
+	<SubTexture name="tesso jump0005" x="2404" y="998" width="283" height="417"/>
+	<SubTexture name="tesso jump0006" x="2787" y="998" width="283" height="417"/>
+	<SubTexture name="tesso jump0007" x="2787" y="998" width="283" height="417"/>
+	<SubTexture name="tesso jump loop0000" x="3170" y="998" width="283" height="396"/>
+	<SubTexture name="tesso jump loop0001" x="3170" y="998" width="283" height="396"/>
+	<SubTexture name="tesso jump loop0002" x="3553" y="998" width="283" height="396"/>
+	<SubTexture name="tesso jump loop0003" x="3553" y="998" width="283" height="396"/>
+	<SubTexture name="tesso jump loop0004" x="86" y="1515" width="283" height="396"/>
+	<SubTexture name="tesso jump loop0005" x="86" y="1515" width="283" height="396"/>
+	<SubTexture name="tesso jump loop0006" x="469" y="1515" width="283" height="396"/>
+	<SubTexture name="tesso jump loop0007" x="469" y="1515" width="283" height="396"/>
+	<SubTexture name="tesso land0000" x="852" y="1515" width="303" height="426"/>
+	<SubTexture name="tesso land0001" x="852" y="1515" width="303" height="426"/>
+	<SubTexture name="tesso land0002" x="1255" y="1515" width="303" height="426"/>
+	<SubTexture name="tesso land0003" x="1255" y="1515" width="303" height="426"/>
+	<SubTexture name="tesso land0004" x="1658" y="1515" width="303" height="426"/>
+	<SubTexture name="tesso land0005" x="1658" y="1515" width="303" height="426"/>
+	<SubTexture name="tesso run0000" x="2061" y="1515" width="277" height="360"/>
+	<SubTexture name="tesso run0001" x="2061" y="1515" width="277" height="360"/>
+	<SubTexture name="tesso run0002" x="2438" y="1515" width="277" height="360"/>
+	<SubTexture name="tesso run0003" x="2438" y="1515" width="277" height="360"/>
+	<SubTexture name="tesso run0004" x="2815" y="1515" width="277" height="360"/>
+	<SubTexture name="tesso run0005" x="2815" y="1515" width="277" height="360"/>
+	<SubTexture name="tesso run0006" x="3192" y="1515" width="277" height="360"/>
+	<SubTexture name="tesso run0007" x="3192" y="1515" width="277" height="360"/>
+	<SubTexture name="tesso run0008" x="3569" y="1515" width="277" height="360"/>
+	<SubTexture name="tesso run0009" x="3569" y="1515" width="277" height="360"/>
+</TextureAtlas>
